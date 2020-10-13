@@ -1,4 +1,4 @@
-árboles
-castañas
-hojas marrones
-gorro
+* árboles
+* castañas
+* hojas marrones
+* gorro
